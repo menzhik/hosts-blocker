@@ -2,7 +2,7 @@
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
-[![CI](https://github.com/menzhik/hosts-blocker/actions/workflows/ci.yml/badge.svg)](https://github.com/menzhik/hosts-blocker/actions/workflows/ci.yml)
+[![CI](https://github.com/menzhik/hosts-page-blocker/actions/workflows/ci.yml/badge.svg)](https://github.com/menzhik/hosts-page-blocker/actions/workflows/ci.yml)
 
 A small CLI that blocks selected websites at the OS level via your hosts file.
 
@@ -42,8 +42,8 @@ Requirements:
 For a local source checkout:
 
 ```sh
-git clone https://github.com/menzhik/hosts-blocker.git
-cd hosts-blocker
+git clone https://github.com/menzhik/hosts-page-blocker.git
+cd hosts-page-blocker
 uv sync
 ```
 
