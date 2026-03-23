@@ -25,7 +25,9 @@ wheels/
 
 # uv
 .venv/
-uv.lock
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
 
 # IDE
 .vscode/
